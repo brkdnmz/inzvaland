@@ -3,4 +3,4 @@ out*.txt
 testcases.zip
 .vscode
 __pycache__
-a.exe
+*.exe
